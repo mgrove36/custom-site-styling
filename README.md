@@ -1,1 +1,2 @@
-# custom-site-styling
+# Custom Stylesheets
+Here are some custom stylesheets I've made for some of the websites I use the most. I use [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha) to implement them on Chrome.

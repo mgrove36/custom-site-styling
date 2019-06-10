@@ -1,0 +1,71 @@
+/* hide unwanted information and adverts */
+.aKA.D6NH0b.zE {
+    display: none;
+}
+
+div.aeW {
+    display: none;
+}
+
+div.gb_Nc.gb_9c.gb_R.gb_Oc.gb_If {
+    display: none;
+}
+
+div.gb_hc svg path {
+    display: none;
+}
+
+div.l6 {
+    display: none;
+}
+
+div.l6 div {
+    display: none;
+}
+
+div.ma {
+    display: none;
+}
+
+/* centre Google Drive usage statistic */
+div.aeV, div.aeV div, div.md.mj, div.md.mj div {
+    text-align: center;
+    width: 100%;
+}
+
+div.l2.pfiaof {
+    text-align: center;
+}
+
+/* add more text to Google Drive usage statistic */
+div.md.mj div:after {
+    content: " in Google Drive";
+}
+
+/* change background of side drawer on hover */
+div.nH.oy8Mbf.nn.aeN.bhZ.bym {
+    -moz-transition: 0.15s;
+    -o-transition: 0.15s;
+    -webkit-transition: 0.15s;
+    background: rgba(20,20,20,0.8);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    transition: 0.15s;
+}
+
+/* change colour of email items & top navigation bar (including Primary, Social, etc.) */
+.yO {
+    background: rgba(20,20,20,0.8);
+}
+
+/* ensure margins are correct on email items */
+form.gb_Se.gb_qf {
+    margin-left: -180px;
+}
+
+/* hide "Gmail" on Gmail logo in top left corner */
+img.gb_la {
+	width: 40px;
+	object-fit: cover;
+	object-position: 0 50%;
+}
