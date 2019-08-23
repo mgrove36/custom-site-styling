@@ -47,15 +47,10 @@ div.nH.oy8Mbf.nn.aeN.bhZ.bym {
     -moz-transition: 0.15s;
     -o-transition: 0.15s;
     -webkit-transition: 0.15s;
-    background: rgba(51,51,51,0.98) !important;
+    background: rgba(0,100,100,0.97);
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     transition: 0.15s;
-}
-
-/* change colour of main window message that is displayed when no emails are in the inbox, email items & top navigation bar (including Primary, Social, etc.) */
-.yO, .aRs {
-    background: rgba(20,20,20,0.8) !important;
 }
 
 /* ensure margins are correct on email items */
@@ -68,9 +63,4 @@ img.gb_la {
 	width: 40px;
 	object-fit: cover;
 	object-position: 0 50%;
-}
-
-/* change colour of links on inbox pages when no emails are present */
-.aRq {
-	color: #fff;
 }
